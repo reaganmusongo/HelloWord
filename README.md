@@ -1,2 +1,1 @@
-# HelloWord
-Juste pour m'exercer
+Je suis entrain de travaillez pour m'exercer avec l'utilisation du Git
